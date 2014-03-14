@@ -1,0 +1,1 @@
+This produces a list of Interpreters for the state of Michigan, USA, based on a Yellow Pages dot com search. Initially written to scrape first two pages of results; it now should scrape all pages of results.
